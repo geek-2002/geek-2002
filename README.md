@@ -5,11 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geek-2002" alt="geek-2002" /></a> </p>
 
-- 🔭 I’m currently working on **Competitive Programming**
-
-- 🌱 I’m currently learning **DSA and Advanced DSA**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sankirtana-g-v-962b361a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankirtana-g-v-962b361a4" height="30" width="40" /></a>
