@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **DSA and Advanced DSA**
 
-- 📫 How to reach me **gvsankirtana2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
